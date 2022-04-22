@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/tableaunoir/tableaunoir"><img src="./favicon.svg" alt="Tableaunoir logo" height="32"/></a></p>
+<p align="center"><a href="https://github.com/tableaunoir/tableaunoir"><img src="../favicon.svg" alt="Tableaunoir logo" height="32"/></a></p>
 <h1 align="center">Tableaunoir</h1>
 <p align="center">
   https://tableaunoir.github.io/
