@@ -11,6 +11,10 @@ Tableaunoir is  an <b>online collaborative blackboard</b> tool with <b>fridge ma
 Tableaunoir is written in HTML, CSS and Typescript.
 The source code is available here: [source code](https://github.com/tableaunoir/tableaunoir)
 
+# Videos
+
+[Vidéos](https://www.youtube.com/playlist?list=PLBkqiBmqkRUp_gDq-Lp754QhMoNpl9Bk7)
+
 # Documentation
 
 The documentation is available here: [documentation](https://github.com/tableaunoir/documentation)
