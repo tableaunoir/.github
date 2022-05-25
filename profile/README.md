@@ -13,7 +13,7 @@ The source code is available here: [source code](https://github.com/tableaunoir/
 
 # Videos
 
-[Vidéos](https://www.youtube.com/playlist?list=PLBkqiBmqkRUp_gDq-Lp754QhMoNpl9Bk7)
+[Videos](https://www.youtube.com/playlist?list=PLBkqiBmqkRUp_gDq-Lp754QhMoNpl9Bk7)
 
 # Documentation
 
