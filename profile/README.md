@@ -17,4 +17,4 @@ The source code is available here: [source code](https://github.com/tableaunoir/
 
 # Documentation
 
-The documentation is available here: [documentation](https://github.com/tableaunoir/documentation)
+The documentation is available here: [documentation](https://tableaunoir.github.io/documentation/)
