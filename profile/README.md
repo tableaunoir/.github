@@ -4,7 +4,7 @@
   https://tableaunoir.github.io/
 </p>
 
-Tableaunoir is  an <b>online collaborative blackboard</b> tool with <b>fridge magnets</b> available in <b>many languages</b>. ["Tableau noir" means blackboard in French](https://www.deepl.com/translator#fr/en/Tableau%20noir). Contrary to plenty of other collaborative boards on the Internet, with Tableaunoir  you can create <b>interactive animations</b> via the use of <b>fridge magnets</b>.
+Tableaunoir is an **open-source online collaborative blackboard** solution with **fridge magnets** available in **many languages**. The word ["Tableau noir" means blackboard in French](https://www.deepl.com/translator#fr/en/Tableau%20noir). Tableaunoir differs from plenty of other collaborative boards on the Internet in these aspects. First Tableaunoir has a **minimalistic graphical user interface**. In particular the user may just have a **completely black screen** on which to write. Second, Tableaunoir **respects and protect people's privacy and personal data**: the system does not store any information on the server side. Finally, with Tableaunoir the user can create **interactive animations, presentations and videos** via the use of <b>fridge magnets</b>.
 
 # Source code
 
